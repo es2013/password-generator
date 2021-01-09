@@ -38,14 +38,11 @@ THEN the password is either displayed in an alert or written to the page
 The following image demonstrates the application functionality:
 
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
+![question1](./ReadMe-IMG/pw-question1.png?raw=true "question1")
+![question2](./ReadMe-IMG/pw-question2.png?raw=true "question2")
+![question3](./ReadMe-IMG/pw-question3.png?raw=true "question3")
+![question4](./ReadMe-IMG/pw-question4.png?raw=true "question4")
+![question5](./ReadMe-IMG/pw-question5.png?raw=true "question5")
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+```
+Once you have defined your criteria, you will have a random password generated!
